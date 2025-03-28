@@ -1,7 +1,7 @@
 # BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
 <h3>Name: MOHANRAM GUNASEKAR  </h3>
-<h3>Register Number: 212223240095 </h3>
+<h3>Register Number:212223240095 </h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -103,8 +103,11 @@ G F <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 <hr>
-Program:
-```from collections import deque
+
+program
+
+```
+from collections import deque
 from collections import defaultdict
 
 def bfs(graph, start, visited, path):
@@ -138,11 +141,14 @@ visited = defaultdict(bool)
 
 traversed_path = bfs(graph, start, visited, path)
 print(traversed_path)
-```
-OUTPUT:
-![Screenshot 2025-03-28 134619](https://github.com/user-attachments/assets/90013884-4713-4a89-81da-5497063cf761)
 
-![Screenshot 2025-03-28 134726](https://github.com/user-attachments/assets/b83c9e53-7675-41d3-bc70-55f4029347b3)
+```
+###
+OUTPUT:
+![Screenshot 2025-03-28 134619](https://github.com/user-attachments/assets/4918ce0e-3436-404c-acbd-b26a2d2cc5b8)
+
+![Screenshot 2025-03-28 134726](https://github.com/user-attachments/assets/0d9b5659-5c18-4c0c-9224-5302957403b8)
+
 
 
 <h3>Result:</h3>

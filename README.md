@@ -145,6 +145,20 @@ print(traversed_path)
 ```
 ###
 OUTPUT:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Screenshot 2025-03-28 134619](https://github.com/user-attachments/assets/4918ce0e-3436-404c-acbd-b26a2d2cc5b8)
 
 ![Screenshot 2025-03-28 134726](https://github.com/user-attachments/assets/0d9b5659-5c18-4c0c-9224-5302957403b8)
